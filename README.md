@@ -3,9 +3,9 @@
 ## features 
 <br>
 ROCK
-</br>
+<br>
 PAPER
-</br>
+<br>
 SCISSORS
-</br>
+<br>
 RESET BTN
